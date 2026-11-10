@@ -1,0 +1,26 @@
+# Dependencias y node
+node_modules/
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build / distribucion
+dist/
+build/
+out/
+
+# Archivos temporales
+*.tmp
+*.temp
